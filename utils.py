@@ -6,9 +6,17 @@ used by app.py.
 
 import json
 import time
+from pathlib import Path
+
 import pandas as pd
 import streamlit as st
 from openai import OpenAI
+
+# Resolve paths relative to this file's location so it works regardless of
+# the process's current working directory (which can differ on deployment
+# platforms like Streamlit Community Cloud).
+BASE_DIR = Path(__file__).resolve().parent
+DEFAULT_DATA_PATH = BASE_DIR / "anime_reviews.csv"
 
 
 # ---------------------------------------------------------------------------
@@ -16,7 +24,7 @@ from openai import OpenAI
 # ---------------------------------------------------------------------------
 
 @st.cache_data
-def load_data(path: str = "data/anime_reviews.csv") -> pd.DataFrame:
+def load_data(path: str | Path = DEFAULT_DATA_PATH) -> pd.DataFrame:
     df = pd.read_csv(path)
 
     # Basic cleaning
