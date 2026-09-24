@@ -1,0 +1,301 @@
+review_id	title	genre	season	year	reviewer	rating	review_text	review_date
+1	Reborn as a Vending Machine God	Isekai	Summer	2023	grindmaster99	7	The pacing kept me hooked from episode one. The community events tie into the story really well.	2023-07-03
+2	Cherry Blossom Letters	Romance	Winter	2025	casual_clearer	10	The pacing kept me hooked from episode one. Grinding actually feels rewarding instead of tedious.	2025-01-26
+3	Small Town Sketchbook	Slice of Life	Fall	2024	grindmaster99	8	Character growth felt earned and emotional. Combat animation and sound design are top tier.	2024-10-28
+4	Starforge Online	Sci-Fi MMORPG	Summer	2023	arcane_archivist	1	Server queues and lag made raids unplayable. Plot armor got exhausting by the second arc.	2023-07-07
+5	Reborn as a Vending Machine God	Isekai	Spring	2024	seasonal_watcher	5	Worth a watch/play once, not sure about replay value. Some episodes are great, others are filler.	2024-04-06
+6	Orbital Drift	Sci-Fi MMORPG	Spring	2025	arcane_archivist	7	Combat animation and sound design are top tier.	2025-04-15
+7	The Withering House	Horror	Spring	2025	questline_kid	7	Genuinely made me tear up by the finale. The pacing kept me hooked from episode one.	2025-04-07
+8	Nova Frontier	Sci-Fi MMORPG	Fall	2024	sakura_scribe	5	Worth a watch/play once, not sure about replay value.	2024-10-18
+9	Bastion Ascendant	Fantasy MMORPG	Fall	2025	guildless_gary	8	The pacing kept me hooked from episode one.	2025-10-28
+10	Reborn as a Vending Machine God	Isekai	Spring	2025	casual_clearer	7	Genuinely made me tear up by the finale. The community events tie into the story really well.	2025-04-28
+11	Blade Requiem	Shonen Action	Summer	2025	guildless_gary	9	Genuinely made me tear up by the finale.	2025-07-17
+12	Small Town Sketchbook	Slice of Life	Winter	2025	sakura_scribe	8	The soundtrack elevates every major scene.	2025-01-16
+13	Blade Requiem	Shonen Action	Summer	2024	grindmaster99	8	Character growth felt earned and emotional. Grinding actually feels rewarding instead of tedious.	2024-07-18
+14	Quiet Afternoons	Slice of Life	Fall	2025	loot_goblin	10	Grinding actually feels rewarding instead of tedious. The soundtrack elevates every major scene.	2025-10-21
+15	Orbital Drift	Sci-Fi MMORPG	Fall	2023	casual_clearer	7	The world-building is some of the best I've seen this year.	2023-10-01
+16	Loop of Eternity	Isekai	Winter	2023	arcane_archivist	7	Genuinely made me tear up by the finale.	2023-01-22
+17	Full Court Legends	Sports	Spring	2025	midnight_marathoner	5	It's fine, nothing special but not bad either.	2025-04-04
+18	The Withering House	Horror	Fall	2024	otaku_wanderer	7	The soundtrack elevates every major scene. Grinding actually feels rewarding instead of tedious.	2024-10-28
+19	Reborn as a Vending Machine God	Isekai	Spring	2023	seasonal_watcher	8	The world-building is some of the best I've seen this year. Grinding actually feels rewarding instead of tedious.	2023-04-03
+20	Iron Grip Wrestling	Sports	Winter	2023	sakura_scribe	2	The ending wrapped up way too fast and left plot holes. Animation quality noticeably dipped after episode 6.	2023-01-07
+21	Hollow Static	Horror	Spring	2024	seasonal_watcher	10	The community events tie into the story really well. Character growth felt earned and emotional.	2024-04-07
+22	Aetherlands Online	Fantasy MMORPG	Winter	2025	otaku_wanderer	3	The ending wrapped up way too fast and left plot holes.	2025-01-17
+23	Quiet Afternoons	Slice of Life	Winter	2023	midnight_marathoner	7	The world-building is some of the best I've seen this year.	2023-01-19
+24	Blade Requiem	Shonen Action	Fall	2025	questline_kid	2	Plot armor got exhausting by the second arc.	2025-10-13
+25	Small Town Sketchbook	Slice of Life	Summer	2024	casual_clearer	7	Character growth felt earned and emotional.	2024-07-18
+26	Midnight Confession	Romance	Summer	2023	seasonal_watcher	5	Decent grind loop but the story is forgettable.	2023-07-27
+27	Bastion Ascendant	Fantasy MMORPG	Winter	2025	sakura_scribe	1	The main character's decisions made no sense. Pacing dragged badly in the middle stretch.	2025-01-24
+28	The Tea House Diaries	Slice of Life	Summer	2025	arcane_archivist	9	Genuinely made me tear up by the finale. Grinding actually feels rewarding instead of tedious.	2025-07-02
+29	Loop of Eternity	Isekai	Fall	2024	sakura_scribe	9	Grinding actually feels rewarding instead of tedious. Genuinely made me tear up by the finale.	2024-10-01
+30	Reborn as a Vending Machine God	Isekai	Spring	2025	sakura_scribe	9	Combat animation and sound design are top tier. The pacing kept me hooked from episode one.	2025-04-10
+31	Nova Frontier	Sci-Fi MMORPG	Summer	2023	midnight_marathoner	5	Animation quality noticeably dipped after episode 6.	2023-07-28
+32	Quiet Afternoons	Slice of Life	Fall	2023	seasonal_watcher	9	Character growth felt earned and emotional.	2023-10-13
+33	Void Hunter Z	Shonen Action	Spring	2023	loot_goblin	6	It's fine, nothing special but not bad either.	2023-04-22
+34	Two Seats Apart	Romance	Summer	2024	midnight_marathoner	6	It's fine, nothing special but not bad either. Worth a watch/play once, not sure about replay value.	2024-07-09
+35	Small Town Sketchbook	Slice of Life	Summer	2023	midnight_marathoner	10	Grinding actually feels rewarding instead of tedious.	2023-07-19
+36	Two Seats Apart	Romance	Winter	2025	grindmaster99	8	The soundtrack elevates every major scene. The community events tie into the story really well.	2025-01-28
+37	Loop of Eternity	Isekai	Summer	2025	seasonal_watcher	10	The world-building is some of the best I've seen this year.	2025-07-14
+38	Red Corridor	Horror	Spring	2025	seasonal_watcher	1	Animation quality noticeably dipped after episode 6. The ending wrapped up way too fast and left plot holes.	2025-04-26
+39	Orbital Drift	Sci-Fi MMORPG	Fall	2024	grindmaster99	2	Server queues and lag made raids unplayable. Pacing dragged badly in the middle stretch.	2024-10-27
+40	Midnight Confession	Romance	Summer	2023	loot_goblin	5	Visuals are nice but the writing is average. It's fine, nothing special but not bad either.	2023-07-15
+41	Red Corridor	Horror	Spring	2025	sakura_scribe	2	The main character's decisions made no sense.	2025-04-25
+42	Hollow Static	Horror	Spring	2025	grindmaster99	7	Combat animation and sound design are top tier. Grinding actually feels rewarding instead of tedious.	2025-04-15
+43	Orbital Drift	Sci-Fi MMORPG	Fall	2025	guildless_gary	8	The world-building is some of the best I've seen this year. Grinding actually feels rewarding instead of tedious.	2025-10-21
+44	Bastion Ascendant	Fantasy MMORPG	Fall	2025	loot_goblin	10	The soundtrack elevates every major scene. Combat animation and sound design are top tier.	2025-10-18
+45	Reborn as a Vending Machine God	Isekai	Spring	2023	grindmaster99	8	Grinding actually feels rewarding instead of tedious. Combat animation and sound design are top tier.	2023-04-18
+46	Sprint to Glory	Sports	Winter	2023	casual_clearer	7	Decent grind loop but the story is forgettable. It's fine, nothing special but not bad either.	2023-01-12
+47	Shattered Realms	Fantasy MMORPG	Fall	2025	seasonal_watcher	2	The ending wrapped up way too fast and left plot holes. Pacing dragged badly in the middle stretch.	2025-10-13
+48	Starforge Online	Sci-Fi MMORPG	Fall	2025	arcane_archivist	10	Grinding actually feels rewarding instead of tedious.	2025-10-19
+49	Blade Requiem	Shonen Action	Fall	2023	midnight_marathoner	5	Solid if you already like the genre, skippable otherwise. Decent grind loop but the story is forgettable.	2023-10-11
+50	Orbital Drift	Sci-Fi MMORPG	Summer	2024	arcane_archivist	7	The soundtrack elevates every major scene.	2024-07-08
+51	Loop of Eternity	Isekai	Winter	2023	sakura_scribe	5	Solid if you already like the genre, skippable otherwise.	2023-01-16
+52	Loop of Eternity	Isekai	Spring	2024	casual_clearer	5	Pay-to-win mechanics ruin the late game.	2024-04-10
+53	Loop of Eternity	Isekai	Winter	2024	grindmaster99	10	Character growth felt earned and emotional.	2024-01-23
+54	Bastion Ascendant	Fantasy MMORPG	Winter	2025	questline_kid	4	Server queues and lag made raids unplayable.	2025-01-01
+55	The Withering House	Horror	Winter	2024	midnight_marathoner	7	Worth a watch/play once, not sure about replay value.	2024-01-17
+56	Bastion Ascendant	Fantasy MMORPG	Fall	2024	grindmaster99	9	The community events tie into the story really well. Character growth felt earned and emotional.	2024-10-25
+57	Iron Grip Wrestling	Sports	Fall	2024	loot_goblin	9	Genuinely made me tear up by the finale. Combat animation and sound design are top tier.	2024-10-09
+58	Bastion Ascendant	Fantasy MMORPG	Winter	2025	guildless_gary	5	Worth a watch/play once, not sure about replay value.	2025-01-16
+59	Sprint to Glory	Sports	Winter	2023	seasonal_watcher	10	The community events tie into the story really well. Genuinely made me tear up by the finale.	2023-01-17
+60	Orbital Drift	Sci-Fi MMORPG	Summer	2024	loot_goblin	3	Animation quality noticeably dipped after episode 6.	2024-07-11
+61	Loop of Eternity	Isekai	Spring	2023	arcane_archivist	10	Character growth felt earned and emotional. Grinding actually feels rewarding instead of tedious.	2023-04-07
+62	Aetherlands Online	Fantasy MMORPG	Summer	2023	otaku_wanderer	8	Combat animation and sound design are top tier. The soundtrack elevates every major scene.	2023-07-28
+63	Full Court Legends	Sports	Winter	2025	sakura_scribe	10	Genuinely made me tear up by the finale.	2025-01-28
+64	Full Court Legends	Sports	Winter	2024	casual_clearer	7	Character growth felt earned and emotional. The community events tie into the story really well.	2024-01-04
+65	Red Corridor	Horror	Spring	2025	midnight_marathoner	10	The pacing kept me hooked from episode one. Genuinely made me tear up by the finale.	2025-04-24
+66	Reborn as a Vending Machine God	Isekai	Spring	2024	arcane_archivist	2	Pay-to-win mechanics ruin the late game.	2024-04-01
+67	The Withering House	Horror	Fall	2024	guildless_gary	9	The world-building is some of the best I've seen this year.	2024-10-09
+68	Two Seats Apart	Romance	Winter	2025	grindmaster99	8	Combat animation and sound design are top tier.	2025-01-26
+69	Bastion Ascendant	Fantasy MMORPG	Summer	2024	seasonal_watcher	9	The community events tie into the story really well. The pacing kept me hooked from episode one.	2024-07-20
+70	Void Hunter Z	Shonen Action	Summer	2025	casual_clearer	7	Genuinely made me tear up by the finale.	2025-07-19
+71	Ashen Fang	Shonen Action	Fall	2025	midnight_marathoner	5	The main character's decisions made no sense. Animation quality noticeably dipped after episode 6.	2025-10-12
+72	The Withering House	Horror	Summer	2025	guildless_gary	8	Grinding actually feels rewarding instead of tedious. The community events tie into the story really well.	2025-07-25
+73	Void Hunter Z	Shonen Action	Winter	2024	otaku_wanderer	7	Grinding actually feels rewarding instead of tedious. The pacing kept me hooked from episode one.	2024-01-07
+74	Starforge Online	Sci-Fi MMORPG	Fall	2025	arcane_archivist	7	Genuinely made me tear up by the finale.	2025-10-15
+75	Full Court Legends	Sports	Winter	2025	seasonal_watcher	2	Felt like a rehash of better shows in the genre.	2025-01-03
+76	Cherry Blossom Letters	Romance	Fall	2023	arcane_archivist	3	Felt like a rehash of better shows in the genre. The ending wrapped up way too fast and left plot holes.	2023-10-16
+77	Full Court Legends	Sports	Fall	2025	sakura_scribe	8	Genuinely made me tear up by the finale.	2025-10-25
+78	The Withering House	Horror	Summer	2023	guildless_gary	9	The community events tie into the story really well.	2023-07-18
+79	Sprint to Glory	Sports	Summer	2025	loot_goblin	3	Felt like a rehash of better shows in the genre.	2025-07-08
+80	Hollow Static	Horror	Summer	2025	guildless_gary	10	Combat animation and sound design are top tier.	2025-07-17
+81	Nova Frontier	Sci-Fi MMORPG	Fall	2023	midnight_marathoner	10	Character growth felt earned and emotional.	2023-10-16
+82	Shattered Realms	Fantasy MMORPG	Fall	2025	midnight_marathoner	9	The community events tie into the story really well. Grinding actually feels rewarding instead of tedious.	2025-10-18
+83	Blade Requiem	Shonen Action	Spring	2025	midnight_marathoner	1	The main character's decisions made no sense.	2025-04-15
+84	Small Town Sketchbook	Slice of Life	Summer	2023	questline_kid	7	Combat animation and sound design are top tier. Character growth felt earned and emotional.	2023-07-17
+85	Red Corridor	Horror	Spring	2023	guildless_gary	10	The world-building is some of the best I've seen this year.	2023-04-15
+86	Shattered Realms	Fantasy MMORPG	Summer	2025	sakura_scribe	10	The community events tie into the story really well.	2025-07-12
+87	Bastion Ascendant	Fantasy MMORPG	Fall	2025	guildless_gary	9	The world-building is some of the best I've seen this year.	2025-10-13
+88	Starforge Online	Sci-Fi MMORPG	Summer	2025	casual_clearer	10	The community events tie into the story really well.	2025-07-27
+89	Aetherlands Online	Fantasy MMORPG	Summer	2023	grindmaster99	2	Plot armor got exhausting by the second arc.	2023-07-26
+90	Full Court Legends	Sports	Summer	2025	sakura_scribe	9	Combat animation and sound design are top tier.	2025-07-26
+91	Starforge Online	Sci-Fi MMORPG	Summer	2023	grindmaster99	10	Character growth felt earned and emotional. The community events tie into the story really well.	2023-07-25
+92	Midnight Confession	Romance	Fall	2025	arcane_archivist	10	The community events tie into the story really well.	2025-10-12
+93	Bastion Ascendant	Fantasy MMORPG	Fall	2025	guildless_gary	7	Visuals are nice but the writing is average.	2025-10-18
+94	Starforge Online	Sci-Fi MMORPG	Spring	2025	midnight_marathoner	10	Combat animation and sound design are top tier.	2025-04-02
+95	Crimson Arc	Shonen Action	Fall	2023	questline_kid	8	Combat animation and sound design are top tier. The world-building is some of the best I've seen this year.	2023-10-21
+96	Another World Chronicles	Isekai	Fall	2024	guildless_gary	9	The soundtrack elevates every major scene.	2024-10-04
+97	Starforge Online	Sci-Fi MMORPG	Summer	2023	grindmaster99	8	The pacing kept me hooked from episode one.	2023-07-02
+98	Nova Frontier	Sci-Fi MMORPG	Spring	2025	loot_goblin	8	Combat animation and sound design are top tier. Grinding actually feels rewarding instead of tedious.	2025-04-20
+99	Crimson Arc	Shonen Action	Spring	2023	sakura_scribe	8	The soundtrack elevates every major scene.	2023-04-26
+100	Midnight Confession	Romance	Summer	2023	arcane_archivist	7	Character growth felt earned and emotional.	2023-07-16
+101	Sprint to Glory	Sports	Winter	2024	seasonal_watcher	7	The pacing kept me hooked from episode one. The community events tie into the story really well.	2024-01-16
+102	The Withering House	Horror	Winter	2024	questline_kid	1	The main character's decisions made no sense.	2024-01-05
+103	Bastion Ascendant	Fantasy MMORPG	Summer	2024	casual_clearer	6	It's fine, nothing special but not bad either. Worth a watch/play once, not sure about replay value.	2024-07-28
+104	Two Seats Apart	Romance	Fall	2023	grindmaster99	10	Grinding actually feels rewarding instead of tedious. Combat animation and sound design are top tier.	2023-10-22
+105	Shattered Realms	Fantasy MMORPG	Spring	2025	grindmaster99	5	It's fine, nothing special but not bad either. Some episodes are great, others are filler.	2025-04-26
+106	Small Town Sketchbook	Slice of Life	Winter	2025	midnight_marathoner	7	Worth a watch/play once, not sure about replay value. Decent grind loop but the story is forgettable.	2025-01-28
+107	Crimson Arc	Shonen Action	Summer	2024	loot_goblin	8	The soundtrack elevates every major scene.	2024-07-28
+108	Nova Frontier	Sci-Fi MMORPG	Summer	2025	casual_clearer	10	Genuinely made me tear up by the finale.	2025-07-01
+109	The Tea House Diaries	Slice of Life	Summer	2024	midnight_marathoner	8	Combat animation and sound design are top tier.	2024-07-24
+110	Blade Requiem	Shonen Action	Spring	2024	seasonal_watcher	9	Character growth felt earned and emotional. The pacing kept me hooked from episode one.	2024-04-05
+111	Small Town Sketchbook	Slice of Life	Winter	2025	guildless_gary	10	Grinding actually feels rewarding instead of tedious. Combat animation and sound design are top tier.	2025-01-07
+112	Another World Chronicles	Isekai	Fall	2023	otaku_wanderer	10	Grinding actually feels rewarding instead of tedious.	2023-10-20
+113	Blade Requiem	Shonen Action	Spring	2024	questline_kid	6	It's fine, nothing special but not bad either.	2024-04-16
+114	Hollow Static	Horror	Spring	2024	questline_kid	8	Grinding actually feels rewarding instead of tedious.	2024-04-28
+115	Void Hunter Z	Shonen Action	Winter	2024	casual_clearer	7	Worth a watch/play once, not sure about replay value. Decent grind loop but the story is forgettable.	2024-01-10
+116	Another World Chronicles	Isekai	Winter	2024	grindmaster99	10	Character growth felt earned and emotional. The community events tie into the story really well.	2024-01-14
+117	Red Corridor	Horror	Winter	2024	sakura_scribe	5	Visuals are nice but the writing is average.	2024-01-21
+118	Loop of Eternity	Isekai	Spring	2024	sakura_scribe	8	The world-building is some of the best I've seen this year. Character growth felt earned and emotional.	2024-04-20
+119	Small Town Sketchbook	Slice of Life	Winter	2023	casual_clearer	6	Worth a watch/play once, not sure about replay value. Visuals are nice but the writing is average.	2023-01-21
+120	Starforge Online	Sci-Fi MMORPG	Summer	2023	seasonal_watcher	10	The soundtrack elevates every major scene.	2023-07-17
+121	Another World Chronicles	Isekai	Fall	2024	grindmaster99	9	The community events tie into the story really well. Genuinely made me tear up by the finale.	2024-10-18
+122	Void Hunter Z	Shonen Action	Spring	2024	grindmaster99	4	The main character's decisions made no sense. Plot armor got exhausting by the second arc.	2024-04-21
+123	Quiet Afternoons	Slice of Life	Spring	2025	casual_clearer	10	The soundtrack elevates every major scene.	2025-04-12
+124	Shattered Realms	Fantasy MMORPG	Fall	2024	grindmaster99	3	The main character's decisions made no sense. Plot armor got exhausting by the second arc.	2024-10-22
+125	The Withering House	Horror	Summer	2025	casual_clearer	6	Some episodes are great, others are filler.	2025-07-10
+126	Hollow Static	Horror	Winter	2024	grindmaster99	5	Server queues and lag made raids unplayable. Pacing dragged badly in the middle stretch.	2024-01-12
+127	Aetherlands Online	Fantasy MMORPG	Spring	2024	sakura_scribe	5	It's fine, nothing special but not bad either.	2024-04-10
+128	Loop of Eternity	Isekai	Winter	2025	sakura_scribe	8	Combat animation and sound design are top tier.	2025-01-27
+129	Small Town Sketchbook	Slice of Life	Fall	2023	seasonal_watcher	8	The world-building is some of the best I've seen this year. Genuinely made me tear up by the finale.	2023-10-08
+130	Shattered Realms	Fantasy MMORPG	Spring	2024	midnight_marathoner	3	Pay-to-win mechanics ruin the late game. Felt like a rehash of better shows in the genre.	2024-04-07
+131	The Tea House Diaries	Slice of Life	Winter	2025	arcane_archivist	9	Genuinely made me tear up by the finale.	2025-01-03
+132	The Tea House Diaries	Slice of Life	Fall	2025	guildless_gary	10	The pacing kept me hooked from episode one. The world-building is some of the best I've seen this year.	2025-10-02
+133	Red Corridor	Horror	Summer	2023	otaku_wanderer	7	Character growth felt earned and emotional. Grinding actually feels rewarding instead of tedious.	2023-07-23
+134	Nova Frontier	Sci-Fi MMORPG	Spring	2023	guildless_gary	10	The pacing kept me hooked from episode one. The community events tie into the story really well.	2023-04-01
+135	Aetherlands Online	Fantasy MMORPG	Spring	2025	loot_goblin	5	It's fine, nothing special but not bad either. Worth a watch/play once, not sure about replay value.	2025-04-08
+136	Red Corridor	Horror	Fall	2023	otaku_wanderer	10	Combat animation and sound design are top tier.	2023-10-10
+137	Hollow Static	Horror	Summer	2023	arcane_archivist	1	The main character's decisions made no sense. Plot armor got exhausting by the second arc.	2023-07-18
+138	Void Hunter Z	Shonen Action	Fall	2023	questline_kid	1	Server queues and lag made raids unplayable.	2023-10-08
+139	Loop of Eternity	Isekai	Summer	2023	guildless_gary	9	Combat animation and sound design are top tier. Grinding actually feels rewarding instead of tedious.	2023-07-05
+140	Loop of Eternity	Isekai	Fall	2023	questline_kid	7	Grinding actually feels rewarding instead of tedious. The community events tie into the story really well.	2023-10-18
+141	Sprint to Glory	Sports	Winter	2025	seasonal_watcher	9	The soundtrack elevates every major scene.	2025-01-14
+142	Red Corridor	Horror	Fall	2024	questline_kid	8	Character growth felt earned and emotional. The soundtrack elevates every major scene.	2024-10-14
+143	Another World Chronicles	Isekai	Spring	2025	seasonal_watcher	7	The community events tie into the story really well. Genuinely made me tear up by the finale.	2025-04-23
+144	Hollow Static	Horror	Fall	2024	seasonal_watcher	9	Character growth felt earned and emotional.	2024-10-22
+145	The Withering House	Horror	Spring	2023	grindmaster99	10	The soundtrack elevates every major scene.	2023-04-12
+146	Red Corridor	Horror	Winter	2025	guildless_gary	10	Combat animation and sound design are top tier.	2025-01-17
+147	Orbital Drift	Sci-Fi MMORPG	Summer	2025	guildless_gary	7	Character growth felt earned and emotional. Combat animation and sound design are top tier.	2025-07-25
+148	Bastion Ascendant	Fantasy MMORPG	Fall	2023	loot_goblin	7	Solid if you already like the genre, skippable otherwise.	2023-10-28
+149	Another World Chronicles	Isekai	Spring	2025	questline_kid	7	Genuinely made me tear up by the finale.	2025-04-10
+150	Small Town Sketchbook	Slice of Life	Spring	2024	loot_goblin	7	The pacing kept me hooked from episode one. Combat animation and sound design are top tier.	2024-04-18
+151	Orbital Drift	Sci-Fi MMORPG	Spring	2025	guildless_gary	6	Decent grind loop but the story is forgettable. Visuals are nice but the writing is average.	2025-04-03
+152	The Tea House Diaries	Slice of Life	Winter	2024	casual_clearer	9	Combat animation and sound design are top tier.	2024-01-14
+153	Blade Requiem	Shonen Action	Spring	2024	questline_kid	9	Character growth felt earned and emotional. Combat animation and sound design are top tier.	2024-04-07
+154	Aetherlands Online	Fantasy MMORPG	Summer	2025	sakura_scribe	8	The soundtrack elevates every major scene.	2025-07-27
+155	Blade Requiem	Shonen Action	Winter	2023	casual_clearer	7	Visuals are nice but the writing is average. It's fine, nothing special but not bad either.	2023-01-16
+156	Bastion Ascendant	Fantasy MMORPG	Summer	2024	grindmaster99	10	Combat animation and sound design are top tier.	2024-07-15
+157	The Withering House	Horror	Fall	2023	questline_kid	8	Combat animation and sound design are top tier. Grinding actually feels rewarding instead of tedious.	2023-10-12
+158	Another World Chronicles	Isekai	Spring	2024	grindmaster99	10	Genuinely made me tear up by the finale.	2024-04-13
+159	Hollow Static	Horror	Spring	2024	guildless_gary	5	Decent grind loop but the story is forgettable. Some episodes are great, others are filler.	2024-04-16
+160	Blade Requiem	Shonen Action	Fall	2025	questline_kid	8	The pacing kept me hooked from episode one.	2025-10-10
+161	Iron Grip Wrestling	Sports	Fall	2024	seasonal_watcher	7	Grinding actually feels rewarding instead of tedious. Combat animation and sound design are top tier.	2024-10-02
+162	Hollow Static	Horror	Spring	2024	guildless_gary	5	The main character's decisions made no sense. The ending wrapped up way too fast and left plot holes.	2024-04-04
+163	The Withering House	Horror	Summer	2025	arcane_archivist	5	Visuals are nice but the writing is average. It's fine, nothing special but not bad either.	2025-07-02
+164	Ashen Fang	Shonen Action	Summer	2024	sakura_scribe	8	The soundtrack elevates every major scene. Character growth felt earned and emotional.	2024-07-13
+165	Bastion Ascendant	Fantasy MMORPG	Summer	2025	seasonal_watcher	7	It's fine, nothing special but not bad either. Some episodes are great, others are filler.	2025-07-11
+166	Another World Chronicles	Isekai	Summer	2025	seasonal_watcher	7	Worth a watch/play once, not sure about replay value.	2025-07-02
+167	Full Court Legends	Sports	Fall	2023	grindmaster99	5	It's fine, nothing special but not bad either.	2023-10-15
+168	Orbital Drift	Sci-Fi MMORPG	Spring	2024	guildless_gary	5	Pay-to-win mechanics ruin the late game.	2024-04-17
+169	Midnight Confession	Romance	Summer	2025	guildless_gary	10	The soundtrack elevates every major scene. The community events tie into the story really well.	2025-07-25
+170	Bastion Ascendant	Fantasy MMORPG	Fall	2023	loot_goblin	7	Some episodes are great, others are filler. Solid if you already like the genre, skippable otherwise.	2023-10-23
+171	Sprint to Glory	Sports	Fall	2024	casual_clearer	1	Felt like a rehash of better shows in the genre. The ending wrapped up way too fast and left plot holes.	2024-10-12
+172	The Tea House Diaries	Slice of Life	Winter	2024	seasonal_watcher	6	Solid if you already like the genre, skippable otherwise. Worth a watch/play once, not sure about replay value.	2024-01-27
+173	Bastion Ascendant	Fantasy MMORPG	Summer	2023	arcane_archivist	8	The world-building is some of the best I've seen this year.	2023-07-02
+174	Another World Chronicles	Isekai	Summer	2025	sakura_scribe	8	The community events tie into the story really well. The world-building is some of the best I've seen this year.	2025-07-21
+175	Two Seats Apart	Romance	Summer	2024	loot_goblin	5	Pay-to-win mechanics ruin the late game.	2024-07-14
+176	Quiet Afternoons	Slice of Life	Fall	2024	seasonal_watcher	9	The soundtrack elevates every major scene.	2024-10-10
+177	Iron Grip Wrestling	Sports	Fall	2023	grindmaster99	6	Solid if you already like the genre, skippable otherwise. Decent grind loop but the story is forgettable.	2023-10-21
+178	Bastion Ascendant	Fantasy MMORPG	Spring	2023	sakura_scribe	2	Felt like a rehash of better shows in the genre. Plot armor got exhausting by the second arc.	2023-04-11
+179	Another World Chronicles	Isekai	Winter	2023	otaku_wanderer	6	Decent grind loop but the story is forgettable. Solid if you already like the genre, skippable otherwise.	2023-01-15
+180	Shattered Realms	Fantasy MMORPG	Summer	2025	loot_goblin	3	The main character's decisions made no sense.	2025-07-15
+181	Aetherlands Online	Fantasy MMORPG	Fall	2025	seasonal_watcher	9	The world-building is some of the best I've seen this year. Character growth felt earned and emotional.	2025-10-05
+182	Full Court Legends	Sports	Fall	2025	guildless_gary	6	Solid if you already like the genre, skippable otherwise.	2025-10-22
+183	Loop of Eternity	Isekai	Fall	2025	otaku_wanderer	1	Pay-to-win mechanics ruin the late game.	2025-10-06
+184	Starforge Online	Sci-Fi MMORPG	Fall	2023	guildless_gary	5	The ending wrapped up way too fast and left plot holes.	2023-10-05
+185	The Withering House	Horror	Winter	2025	midnight_marathoner	9	The pacing kept me hooked from episode one. The soundtrack elevates every major scene.	2025-01-07
+186	Reborn as a Vending Machine God	Isekai	Fall	2024	otaku_wanderer	4	Felt like a rehash of better shows in the genre. The main character's decisions made no sense.	2024-10-25
+187	Small Town Sketchbook	Slice of Life	Fall	2024	midnight_marathoner	6	Worth a watch/play once, not sure about replay value.	2024-10-22
+188	Small Town Sketchbook	Slice of Life	Summer	2023	loot_goblin	10	The pacing kept me hooked from episode one.	2023-07-10
+189	Iron Grip Wrestling	Sports	Fall	2025	questline_kid	8	Genuinely made me tear up by the finale.	2025-10-07
+190	Reborn as a Vending Machine God	Isekai	Fall	2025	grindmaster99	2	Pacing dragged badly in the middle stretch.	2025-10-15
+191	Ashen Fang	Shonen Action	Winter	2024	arcane_archivist	8	The world-building is some of the best I've seen this year. Grinding actually feels rewarding instead of tedious.	2024-01-24
+192	Starforge Online	Sci-Fi MMORPG	Summer	2023	loot_goblin	8	Genuinely made me tear up by the finale. Combat animation and sound design are top tier.	2023-07-02
+193	Small Town Sketchbook	Slice of Life	Fall	2025	arcane_archivist	9	Grinding actually feels rewarding instead of tedious. The world-building is some of the best I've seen this year.	2025-10-05
+194	Shattered Realms	Fantasy MMORPG	Spring	2025	guildless_gary	8	Grinding actually feels rewarding instead of tedious.	2025-04-14
+195	The Tea House Diaries	Slice of Life	Spring	2024	grindmaster99	7	The pacing kept me hooked from episode one.	2024-04-09
+196	Red Corridor	Horror	Winter	2023	questline_kid	8	The pacing kept me hooked from episode one. Character growth felt earned and emotional.	2023-01-07
+197	Loop of Eternity	Isekai	Fall	2023	arcane_archivist	2	Plot armor got exhausting by the second arc. Animation quality noticeably dipped after episode 6.	2023-10-15
+198	Orbital Drift	Sci-Fi MMORPG	Summer	2024	guildless_gary	10	The world-building is some of the best I've seen this year. Combat animation and sound design are top tier.	2024-07-11
+199	Hollow Static	Horror	Spring	2025	casual_clearer	9	Genuinely made me tear up by the finale. Character growth felt earned and emotional.	2025-04-07
+200	Nova Frontier	Sci-Fi MMORPG	Fall	2025	seasonal_watcher	7	Worth a watch/play once, not sure about replay value. Decent grind loop but the story is forgettable.	2025-10-15
+201	Small Town Sketchbook	Slice of Life	Summer	2023	otaku_wanderer	10	Character growth felt earned and emotional.	2023-07-27
+202	Blade Requiem	Shonen Action	Fall	2023	otaku_wanderer	5	Visuals are nice but the writing is average.	2023-10-15
+203	Nova Frontier	Sci-Fi MMORPG	Fall	2025	midnight_marathoner	7	The pacing kept me hooked from episode one.	2025-10-17
+204	Bastion Ascendant	Fantasy MMORPG	Summer	2023	grindmaster99	10	The world-building is some of the best I've seen this year.	2023-07-07
+205	Shattered Realms	Fantasy MMORPG	Summer	2024	loot_goblin	10	Genuinely made me tear up by the finale.	2024-07-22
+206	Loop of Eternity	Isekai	Winter	2023	otaku_wanderer	10	Combat animation and sound design are top tier.	2023-01-03
+207	Sprint to Glory	Sports	Summer	2025	loot_goblin	7	Worth a watch/play once, not sure about replay value.	2025-07-19
+208	Sprint to Glory	Sports	Winter	2023	otaku_wanderer	5	Server queues and lag made raids unplayable.	2023-01-01
+209	Midnight Confession	Romance	Spring	2025	casual_clearer	6	Visuals are nice but the writing is average.	2025-04-27
+210	Red Corridor	Horror	Summer	2024	arcane_archivist	1	Pacing dragged badly in the middle stretch. The ending wrapped up way too fast and left plot holes.	2024-07-14
+211	Cherry Blossom Letters	Romance	Summer	2025	seasonal_watcher	1	The ending wrapped up way too fast and left plot holes. The main character's decisions made no sense.	2025-07-12
+212	The Withering House	Horror	Spring	2025	seasonal_watcher	5	The main character's decisions made no sense.	2025-04-03
+213	Aetherlands Online	Fantasy MMORPG	Fall	2025	questline_kid	4	The main character's decisions made no sense. Pacing dragged badly in the middle stretch.	2025-10-01
+214	Shattered Realms	Fantasy MMORPG	Summer	2024	guildless_gary	7	Character growth felt earned and emotional. The pacing kept me hooked from episode one.	2024-07-03
+215	Starforge Online	Sci-Fi MMORPG	Winter	2025	seasonal_watcher	1	Felt like a rehash of better shows in the genre. The ending wrapped up way too fast and left plot holes.	2025-01-03
+216	Midnight Confession	Romance	Spring	2025	seasonal_watcher	8	Combat animation and sound design are top tier. The pacing kept me hooked from episode one.	2025-04-06
+217	The Withering House	Horror	Fall	2024	loot_goblin	7	The world-building is some of the best I've seen this year. The community events tie into the story really well.	2024-10-04
+218	The Tea House Diaries	Slice of Life	Winter	2024	questline_kid	10	Combat animation and sound design are top tier. The community events tie into the story really well.	2024-01-11
+219	Two Seats Apart	Romance	Summer	2023	casual_clearer	6	Some episodes are great, others are filler.	2023-07-13
+220	Shattered Realms	Fantasy MMORPG	Summer	2023	sakura_scribe	7	Worth a watch/play once, not sure about replay value.	2023-07-15
+221	Two Seats Apart	Romance	Summer	2025	sakura_scribe	10	The world-building is some of the best I've seen this year. Combat animation and sound design are top tier.	2025-07-22
+222	Small Town Sketchbook	Slice of Life	Fall	2024	arcane_archivist	10	The pacing kept me hooked from episode one. Grinding actually feels rewarding instead of tedious.	2024-10-12
+223	Reborn as a Vending Machine God	Isekai	Spring	2025	otaku_wanderer	5	Server queues and lag made raids unplayable. Felt like a rehash of better shows in the genre.	2025-04-14
+224	Reborn as a Vending Machine God	Isekai	Winter	2024	midnight_marathoner	8	Combat animation and sound design are top tier. The community events tie into the story really well.	2024-01-01
+225	Full Court Legends	Sports	Summer	2024	questline_kid	5	Some episodes are great, others are filler. Decent grind loop but the story is forgettable.	2024-07-26
+226	Midnight Confession	Romance	Fall	2024	questline_kid	10	Genuinely made me tear up by the finale.	2024-10-02
+227	Reborn as a Vending Machine God	Isekai	Summer	2025	arcane_archivist	8	Combat animation and sound design are top tier.	2025-07-11
+228	The Withering House	Horror	Spring	2024	midnight_marathoner	4	Animation quality noticeably dipped after episode 6.	2024-04-15
+229	The Withering House	Horror	Winter	2025	casual_clearer	9	Combat animation and sound design are top tier.	2025-01-12
+230	Nova Frontier	Sci-Fi MMORPG	Fall	2023	casual_clearer	10	Grinding actually feels rewarding instead of tedious. Genuinely made me tear up by the finale.	2023-10-04
+231	Orbital Drift	Sci-Fi MMORPG	Fall	2025	grindmaster99	9	The soundtrack elevates every major scene.	2025-10-04
+232	Two Seats Apart	Romance	Winter	2023	midnight_marathoner	8	Grinding actually feels rewarding instead of tedious.	2023-01-14
+233	The Tea House Diaries	Slice of Life	Spring	2025	questline_kid	9	The pacing kept me hooked from episode one. Grinding actually feels rewarding instead of tedious.	2025-04-12
+234	Void Hunter Z	Shonen Action	Spring	2023	midnight_marathoner	6	Decent grind loop but the story is forgettable. Solid if you already like the genre, skippable otherwise.	2023-04-03
+235	Ashen Fang	Shonen Action	Summer	2023	casual_clearer	9	Character growth felt earned and emotional. Genuinely made me tear up by the finale.	2023-07-04
+236	Bastion Ascendant	Fantasy MMORPG	Summer	2025	arcane_archivist	7	Decent grind loop but the story is forgettable.	2025-07-04
+237	Two Seats Apart	Romance	Winter	2024	loot_goblin	7	The soundtrack elevates every major scene.	2024-01-28
+238	Hollow Static	Horror	Spring	2023	arcane_archivist	7	Visuals are nice but the writing is average. Worth a watch/play once, not sure about replay value.	2023-04-06
+239	Starforge Online	Sci-Fi MMORPG	Summer	2024	otaku_wanderer	4	Pay-to-win mechanics ruin the late game. Server queues and lag made raids unplayable.	2024-07-28
+240	Quiet Afternoons	Slice of Life	Spring	2025	guildless_gary	8	Genuinely made me tear up by the finale.	2025-04-21
+241	The Withering House	Horror	Fall	2023	seasonal_watcher	5	The ending wrapped up way too fast and left plot holes. Animation quality noticeably dipped after episode 6.	2023-10-11
+242	Blade Requiem	Shonen Action	Fall	2025	midnight_marathoner	5	Felt like a rehash of better shows in the genre.	2025-10-27
+243	Two Seats Apart	Romance	Summer	2024	sakura_scribe	7	Some episodes are great, others are filler. It's fine, nothing special but not bad either.	2024-07-02
+244	Loop of Eternity	Isekai	Fall	2023	otaku_wanderer	8	The world-building is some of the best I've seen this year. The soundtrack elevates every major scene.	2023-10-05
+245	Aetherlands Online	Fantasy MMORPG	Summer	2023	sakura_scribe	3	Felt like a rehash of better shows in the genre.	2023-07-21
+246	Bastion Ascendant	Fantasy MMORPG	Spring	2024	guildless_gary	2	Pay-to-win mechanics ruin the late game.	2024-04-19
+247	Midnight Confession	Romance	Fall	2023	sakura_scribe	9	Character growth felt earned and emotional. The community events tie into the story really well.	2023-10-13
+248	Loop of Eternity	Isekai	Winter	2023	sakura_scribe	9	Character growth felt earned and emotional.	2023-01-17
+249	Ashen Fang	Shonen Action	Fall	2024	guildless_gary	5	The main character's decisions made no sense.	2024-10-04
+250	Quiet Afternoons	Slice of Life	Fall	2024	seasonal_watcher	5	Solid if you already like the genre, skippable otherwise.	2024-10-18
+251	Bastion Ascendant	Fantasy MMORPG	Winter	2025	arcane_archivist	7	Worth a watch/play once, not sure about replay value.	2025-01-13
+252	Bastion Ascendant	Fantasy MMORPG	Winter	2023	casual_clearer	7	The pacing kept me hooked from episode one.	2023-01-12
+253	Nova Frontier	Sci-Fi MMORPG	Fall	2025	otaku_wanderer	8	The pacing kept me hooked from episode one.	2025-10-09
+254	Cherry Blossom Letters	Romance	Winter	2024	grindmaster99	10	Genuinely made me tear up by the finale.	2024-01-03
+255	Aetherlands Online	Fantasy MMORPG	Spring	2023	seasonal_watcher	10	The world-building is some of the best I've seen this year. The pacing kept me hooked from episode one.	2023-04-08
+256	Another World Chronicles	Isekai	Winter	2024	grindmaster99	7	Combat animation and sound design are top tier.	2024-01-23
+257	Ashen Fang	Shonen Action	Fall	2024	sakura_scribe	9	Character growth felt earned and emotional. Grinding actually feels rewarding instead of tedious.	2024-10-01
+258	Orbital Drift	Sci-Fi MMORPG	Summer	2025	arcane_archivist	7	The pacing kept me hooked from episode one. The world-building is some of the best I've seen this year.	2025-07-28
+259	The Tea House Diaries	Slice of Life	Spring	2024	otaku_wanderer	5	Pacing dragged badly in the middle stretch.	2024-04-08
+260	Void Hunter Z	Shonen Action	Summer	2024	midnight_marathoner	5	Some episodes are great, others are filler.	2024-07-08
+261	Red Corridor	Horror	Summer	2024	otaku_wanderer	5	Solid if you already like the genre, skippable otherwise.	2024-07-26
+262	Void Hunter Z	Shonen Action	Winter	2024	arcane_archivist	6	It's fine, nothing special but not bad either. Some episodes are great, others are filler.	2024-01-07
+263	Bastion Ascendant	Fantasy MMORPG	Summer	2025	guildless_gary	5	Animation quality noticeably dipped after episode 6.	2025-07-05
+264	Void Hunter Z	Shonen Action	Winter	2023	midnight_marathoner	7	Character growth felt earned and emotional. The community events tie into the story really well.	2023-01-17
+265	Two Seats Apart	Romance	Fall	2023	grindmaster99	7	Solid if you already like the genre, skippable otherwise.	2023-10-28
+266	Red Corridor	Horror	Summer	2024	arcane_archivist	7	Worth a watch/play once, not sure about replay value.	2024-07-27
+267	Hollow Static	Horror	Winter	2024	seasonal_watcher	3	Felt like a rehash of better shows in the genre. Server queues and lag made raids unplayable.	2024-01-27
+268	Orbital Drift	Sci-Fi MMORPG	Fall	2024	grindmaster99	8	Character growth felt earned and emotional.	2024-10-06
+269	Sprint to Glory	Sports	Summer	2024	seasonal_watcher	9	Genuinely made me tear up by the finale. Grinding actually feels rewarding instead of tedious.	2024-07-04
+270	Reborn as a Vending Machine God	Isekai	Summer	2025	sakura_scribe	3	Animation quality noticeably dipped after episode 6.	2025-07-12
+271	Red Corridor	Horror	Winter	2025	guildless_gary	8	Character growth felt earned and emotional.	2025-01-15
+272	Reborn as a Vending Machine God	Isekai	Winter	2023	midnight_marathoner	8	Character growth felt earned and emotional. Genuinely made me tear up by the finale.	2023-01-19
+273	Aetherlands Online	Fantasy MMORPG	Winter	2023	questline_kid	10	The pacing kept me hooked from episode one.	2023-01-15
+274	Ashen Fang	Shonen Action	Fall	2025	sakura_scribe	7	The world-building is some of the best I've seen this year. Character growth felt earned and emotional.	2025-10-09
+275	Shattered Realms	Fantasy MMORPG	Spring	2023	guildless_gary	3	The ending wrapped up way too fast and left plot holes. Pacing dragged badly in the middle stretch.	2023-04-03
+276	Shattered Realms	Fantasy MMORPG	Spring	2024	otaku_wanderer	8	The soundtrack elevates every major scene. The world-building is some of the best I've seen this year.	2024-04-18
+277	Sprint to Glory	Sports	Summer	2024	loot_goblin	7	Genuinely made me tear up by the finale.	2024-07-02
+278	Iron Grip Wrestling	Sports	Summer	2025	loot_goblin	5	Visuals are nice but the writing is average. It's fine, nothing special but not bad either.	2025-07-25
+279	Midnight Confession	Romance	Fall	2024	casual_clearer	5	Worth a watch/play once, not sure about replay value. Some episodes are great, others are filler.	2024-10-19
+280	Crimson Arc	Shonen Action	Spring	2025	sakura_scribe	7	It's fine, nothing special but not bad either. Worth a watch/play once, not sure about replay value.	2025-04-02
+281	Midnight Confession	Romance	Spring	2023	loot_goblin	7	The soundtrack elevates every major scene.	2023-04-23
+282	The Tea House Diaries	Slice of Life	Winter	2023	questline_kid	8	The soundtrack elevates every major scene.	2023-01-23
+283	Red Corridor	Horror	Winter	2024	guildless_gary	8	Combat animation and sound design are top tier. The soundtrack elevates every major scene.	2024-01-18
+284	Nova Frontier	Sci-Fi MMORPG	Spring	2024	otaku_wanderer	9	The pacing kept me hooked from episode one. Character growth felt earned and emotional.	2024-04-20
+285	Starforge Online	Sci-Fi MMORPG	Spring	2025	grindmaster99	3	Server queues and lag made raids unplayable.	2025-04-11
+286	Small Town Sketchbook	Slice of Life	Winter	2025	seasonal_watcher	1	Animation quality noticeably dipped after episode 6.	2025-01-23
+287	Another World Chronicles	Isekai	Summer	2023	midnight_marathoner	4	Felt like a rehash of better shows in the genre.	2023-07-16
+288	The Withering House	Horror	Fall	2023	grindmaster99	5	Some episodes are great, others are filler.	2023-10-01
+289	Orbital Drift	Sci-Fi MMORPG	Winter	2023	arcane_archivist	10	The soundtrack elevates every major scene.	2023-01-20
+290	Iron Grip Wrestling	Sports	Winter	2024	sakura_scribe	7	It's fine, nothing special but not bad either.	2024-01-11
+291	Cherry Blossom Letters	Romance	Fall	2025	seasonal_watcher	3	The main character's decisions made no sense.	2025-10-02
+292	Red Corridor	Horror	Fall	2023	seasonal_watcher	7	The world-building is some of the best I've seen this year. The pacing kept me hooked from episode one.	2023-10-01
+293	Cherry Blossom Letters	Romance	Summer	2023	guildless_gary	7	Genuinely made me tear up by the finale. The pacing kept me hooked from episode one.	2023-07-21
+294	Hollow Static	Horror	Summer	2024	guildless_gary	10	Genuinely made me tear up by the finale. Character growth felt earned and emotional.	2024-07-27
+295	Bastion Ascendant	Fantasy MMORPG	Winter	2023	arcane_archivist	3	Animation quality noticeably dipped after episode 6. Plot armor got exhausting by the second arc.	2023-01-02
+296	Red Corridor	Horror	Fall	2025	guildless_gary	2	The main character's decisions made no sense. Animation quality noticeably dipped after episode 6.	2025-10-28
+297	Ashen Fang	Shonen Action	Winter	2024	sakura_scribe	8	Grinding actually feels rewarding instead of tedious.	2024-01-03
+298	Hollow Static	Horror	Spring	2025	arcane_archivist	7	The soundtrack elevates every major scene. Grinding actually feels rewarding instead of tedious.	2025-04-09
+299	Full Court Legends	Sports	Fall	2023	casual_clearer	8	Character growth felt earned and emotional.	2023-10-19
+300	Another World Chronicles	Isekai	Summer	2024	guildless_gary	10	Combat animation and sound design are top tier.	2024-07-09
