@@ -5,7 +5,9 @@ used by app.py.
 """
 
 import json
+import random
 import time
+from datetime import date
 from pathlib import Path
 
 import pandas as pd
@@ -20,12 +22,125 @@ DEFAULT_DATA_PATH = BASE_DIR / "anime_reviews.csv"
 
 
 # ---------------------------------------------------------------------------
+# 0. Synthetic dataset generator (used as a fallback if the CSV file is
+#    missing or was corrupted in transit, e.g. by a lossy file upload).
+# ---------------------------------------------------------------------------
+
+_TITLES = {
+    "Shonen Action": ["Blade Requiem", "Ashen Fang", "Crimson Arc", "Void Hunter Z"],
+    "Isekai": ["Reborn as a Vending Machine God", "Another World Chronicles", "Loop of Eternity"],
+    "Slice of Life": ["Quiet Afternoons", "The Tea House Diaries", "Small Town Sketchbook"],
+    "Romance": ["Cherry Blossom Letters", "Two Seats Apart", "Midnight Confession"],
+    "Fantasy MMORPG": ["Aetherlands Online", "Shattered Realms", "Bastion Ascendant"],
+    "Sci-Fi MMORPG": ["Nova Frontier", "Orbital Drift", "Starforge Online"],
+    "Horror": ["Hollow Static", "The Withering House", "Red Corridor"],
+    "Sports": ["Full Court Legends", "Sprint to Glory", "Iron Grip Wrestling"],
+}
+_SEASONS = ["Winter", "Spring", "Summer", "Fall"]
+_YEARS = [2023, 2024, 2025]
+_POSITIVE = [
+    "The pacing kept me hooked from episode one.",
+    "Character growth felt earned and emotional.",
+    "Combat animation and sound design are top tier.",
+    "The world-building is some of the best I've seen this year.",
+    "Genuinely made me tear up by the finale.",
+    "The soundtrack elevates every major scene.",
+    "Grinding actually feels rewarding instead of tedious.",
+    "The community events tie into the story really well.",
+]
+_NEGATIVE = [
+    "Pacing dragged badly in the middle stretch.",
+    "The main character's decisions made no sense.",
+    "Pay-to-win mechanics ruin the late game.",
+    "Animation quality noticeably dipped after episode 6.",
+    "Plot armor got exhausting by the second arc.",
+    "Server queues and lag made raids unplayable.",
+    "Felt like a rehash of better shows in the genre.",
+    "The ending wrapped up way too fast and left plot holes.",
+]
+_NEUTRAL = [
+    "It's fine, nothing special but not bad either.",
+    "Solid if you already like the genre, skippable otherwise.",
+    "Some episodes are great, others are filler.",
+    "Decent grind loop but the story is forgettable.",
+    "Visuals are nice but the writing is average.",
+    "Worth a watch/play once, not sure about replay value.",
+]
+_REVIEWERS = [
+    "otaku_wanderer", "grindmaster99", "sakura_scribe", "loot_goblin",
+    "seasonal_watcher", "questline_kid", "midnight_marathoner", "guildless_gary",
+    "arcane_archivist", "casual_clearer",
+]
+
+
+def _random_review_text(rng: random.Random, sentiment: str) -> str:
+    pool = {"positive": _POSITIVE, "negative": _NEGATIVE, "neutral": _NEUTRAL}[sentiment]
+    return " ".join(rng.sample(pool, k=rng.randint(1, 2)))
+
+
+def generate_dataset(n_rows: int = 300, seed: int = 42) -> pd.DataFrame:
+    """Builds the same synthetic anime/MMORPG review dataset that ships as
+    anime_reviews.csv. Used both by generate_data.py (to regenerate the CSV)
+    and by load_data() as a fallback if the CSV can't be read."""
+    rng = random.Random(seed)
+    rows = []
+    for i in range(1, n_rows + 1):
+        genre = rng.choice(list(_TITLES.keys()))
+        title = rng.choice(_TITLES[genre])
+        season = rng.choice(_SEASONS)
+        year = rng.choice(_YEARS)
+
+        weights = [0.55, 0.25, 0.20]
+        if genre in ("Isekai", "Fantasy MMORPG") and season in ("Fall", "Winter"):
+            weights = [0.65, 0.20, 0.15]
+        sentiment = rng.choices(["positive", "negative", "neutral"], weights=weights)[0]
+
+        rating = {
+            "positive": rng.randint(7, 10),
+            "neutral": rng.randint(5, 7),
+            "negative": rng.randint(1, 5),
+        }[sentiment]
+
+        month = {"Winter": 1, "Spring": 4, "Summer": 7, "Fall": 10}[season]
+        rows.append({
+            "review_id": i,
+            "title": title,
+            "genre": genre,
+            "season": season,
+            "year": year,
+            "reviewer": rng.choice(_REVIEWERS),
+            "rating": rating,
+            "review_text": _random_review_text(rng, sentiment),
+            "review_date": date(year, month, rng.randint(1, 28)).isoformat(),
+        })
+    return pd.DataFrame(rows)
+
+
+# ---------------------------------------------------------------------------
 # 1. Load and clean the dataset
 # ---------------------------------------------------------------------------
 
 @st.cache_data
 def load_data(path: str | Path = DEFAULT_DATA_PATH) -> pd.DataFrame:
-    df = pd.read_csv(path)
+    required_cols = {
+        "review_id", "title", "genre", "season", "year",
+        "reviewer", "rating", "review_text", "review_date",
+    }
+
+    df = None
+    try:
+        candidate = pd.read_csv(path)
+        if required_cols.issubset(candidate.columns):
+            df = candidate
+    except Exception:
+        df = None
+
+    if df is None:
+        st.warning(
+            f"Couldn't read {Path(path).name} (missing, corrupted, or "
+            "wrong format) — using a freshly generated sample dataset instead."
+        )
+        df = generate_dataset()
 
     # Basic cleaning
     df = df.drop_duplicates(subset="review_id")
